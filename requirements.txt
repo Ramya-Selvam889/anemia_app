@@ -1,7 +1,8 @@
 streamlit
 opencv-python-headless
 numpy
-scikit-learn
+scikit-learn==1.6.1
 pillow
 matplotlib
 fpdf2
+pandas
